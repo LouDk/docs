@@ -35,6 +35,12 @@
         ]
       },
       {
+        "tab": "SDKs",
+        "pages": [
+          "something/test"
+        ]
+      },
+      {
         "tab": "API Reference",
         "groups": [
           {
